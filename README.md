@@ -64,7 +64,7 @@ This project provides:
 
 #  Project Structure
 
-```text
+---
 Weather-Forecast-Alert-Application/
 │
 ├── data/
@@ -124,14 +124,14 @@ streamlit run app.py
 
 ##  Temperature Forecast Chart
 
-![Temperature Chart](images/temp and humidity charts.png)
+![TemperatureChart](images/temp and humidity charts.png)
 
 ---
 
 
 ##  Rainfall Prediction Chart
 
-![Rainfall Chart](images/rainfall chart.png)
+![RainfallChart](images/rainfall chart.png)
 
 ---
 
