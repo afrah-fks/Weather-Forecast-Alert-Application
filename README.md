@@ -124,14 +124,14 @@ streamlit run app.py
 
 ##  Temperature Forecast Chart
 
-![TemperatureChart](images/temp and humidity charts.png)
+![Temperature](images/temp_and_humidity_charts.png)
 
 ---
 
 
 ##  Rainfall Prediction Chart
 
-![RainfallChart](images/rainfall chart.png)
+![RainfallChart](images/rainfall_chart.png)
 
 ---
 
